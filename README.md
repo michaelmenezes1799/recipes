@@ -1,0 +1,2 @@
+This is a tool im using to work on some html basics. Creating a website with an index that links to a couple of recipes.
+its a living project and I will come back to make it nice and pretty further down the line.
